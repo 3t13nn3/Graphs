@@ -15,7 +15,7 @@ int main() {
     g.AddEdge(2, 7, 19);
     g.AddEdge(2, 4, 2);
 
-    g.AddEdge(3, 2, -6);
+    g.AddEdge(3, 2, 6);
     g.AddEdge(3, 7, 6);
 
     g.AddEdge(4, 3, 11);
